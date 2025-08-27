@@ -1,0 +1,13 @@
+{
+    "materias": {
+      "Matemática": ["soma", "subtração", "multiplicação", "divisão", "ângulo"],
+      "Português": ["verbo", "substantivo", "adjetivo", "pronome", "frase"],
+      "Ciências": ["planta", "água", "sol", "animal", "terra"],
+      "Biologia": ["célula", "DNA", "organismo", "ecossistema", "evolução"],
+      "História": ["império", "revolução", "colonização", "guerra", "cultura"],
+      "Química": ["átomo", "molécula", "reação", "elemento", "tabela"],
+      "Física": ["força", "energia", "movimento", "velocidade", "massa"],
+      "Geografia": ["mapa", "clima", "relevo", "oceano", "território"]
+    }
+  }
+  
